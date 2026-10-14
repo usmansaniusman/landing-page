@@ -118,7 +118,7 @@ p {
 .third-container {
     display: flex;
     background-color: #e0e3e7;
-    padding: 165px;
+    padding: 150px;
 }
 
 .quote {
@@ -142,7 +142,7 @@ p {
 
 .fourth-container {
     display: flex;
-    padding: 115px;
+    padding: 90px;
     justify-content: center;
     align-items: center;
 }
